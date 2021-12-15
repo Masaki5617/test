@@ -1,0 +1,31 @@
+.register{
+  border:1px solid gray;
+  width:400px;
+  margin:0 auto;
+  padding-bottom:20px;
+}
+.register h3{
+  text-align: center;
+  border-bottom:1px solid gray;
+  padding-bottom:20px;
+  margin-bottom:30px;
+}
+label{
+    display: inline-block;
+    text-align: right;
+    width: 150px;
+}
+.send{
+  text-align: center;
+  padding-top:30px;
+}
+.send input{
+  background-color: pink;
+  width:50px;
+}
+.register p{
+  text-align: center;
+}
+.error{
+  color:red;
+}
