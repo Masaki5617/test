@@ -32,7 +32,6 @@ class BlogController {
 
     $err= [];
 
-    
     $str = '/^[0-9]+$/';
     $birth_str = '|\d{4}\-\d{1,2}\-\d{1,2}|';
     $email_str = '/^([a-zA-Z0-9])+([a-zA-Z0-9._-])*@([a-zA-Z0-9_-])+([a-zA-Z0-9._-]+)+$/';
